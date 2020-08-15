@@ -1,5 +1,5 @@
 # HoshinoBot_docker
-本项目为[HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot/) 的docker-compose一键部署模板, 使用[MiraiGo](https://github.com/Mrs4s/MiraiGo) 作为宿主。
+本项目为[HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot/) 的docker-compose一键部署模板, 使用[go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 作为宿主。
 
 # 部署方法
 
